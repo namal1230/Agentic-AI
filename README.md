@@ -248,7 +248,7 @@ Today, many systems like:
 mainly use diffusion-based approaches instead of classic GANs.
 
 But GANs were one of the first major successes in generative AI history.
-
+[738a194c-f69c-4006-87a3-6641f4744852.pdf](https://github.com/user-attachments/files/27598027/738a194c-f69c-4006-87a3-6641f4744852.pdf)
 [72aa5170-1fed-4a84-acee-8115c0314737.pdf](https://github.com/user-attachments/files/27595017/72aa5170-1fed-4a84-acee-8115c0314737.pdf)
 
 ## 2017 - Transformer Architectecture
